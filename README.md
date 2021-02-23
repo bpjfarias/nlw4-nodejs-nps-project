@@ -50,8 +50,11 @@ TBD
 ## 💻 Techonologies
 
 - Typescript
-- Expressjs
+- Express
+- Typeorm
+- Sqlite
 - Insomnia API client
+
 
 ## Let's code! 🚀
 
