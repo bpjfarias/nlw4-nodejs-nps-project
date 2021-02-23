@@ -6,7 +6,7 @@ The NLW is an on-line event with a lot of coding, challenges, networking and onl
 
 ## About my project
 
-Basically its a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score manager. Its provide some interfaces by endpoints to register users and questions about the company, sends an e-mail to the user requesting a vote and allow to user to vote in one number of NPS.
+It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - manager. It's provide some interfaces (APIs) to register users and surveys about the company, sends an e-mail to the user requesting a vote and allow to vote in NPS.
 
 <details><summary><b>First Class</b></summary>
 
@@ -17,9 +17,29 @@ Basically its a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter
 
 </details>
 
-<br>
-
 <details><summary><b>Second class</b></summary>
+
+- Starting a database configs
+- Creating first migration and model
+- Creating User table
+- Creating an User Controller and isolating that business role
+- Exposing an endpoint to create users
+
+</details>
+
+<details><summary><b>Third class</b></summary>
+
+TBD
+
+</details>
+
+<details><summary><b>Fourth class</b></summary>
+
+TBD
+
+</details>
+
+<details><summary><b>Fifth class</b></summary>
 
 TBD
 
@@ -30,8 +50,11 @@ TBD
 ## 💻 Techonologies
 
 - Typescript
-- Expressjs
+- Express
+- Typeorm
+- Sqlite
 - Insomnia API client
+
 
 ## Let's code! 🚀
 
