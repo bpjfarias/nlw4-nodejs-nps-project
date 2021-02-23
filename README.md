@@ -11,7 +11,7 @@ Basically its a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter
 <details><summary><b>First Class</b></summary>
 
 - Basics concepts about what is an API
-- Understading what is Nodejs, where is it been used, for what problems was created
+- Understanding what is Nodejs, where is it been used, for what problems was created
 - Knowing typescript and how it can help us during the application development
 - Some initial code
 
@@ -24,6 +24,18 @@ Basically its a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter
 TBD
 
 </details>
+
+<br>
+
+## 💻 Techonologies
+
+- Typescript
+- Expressjs
+- Insomnia API client
+
+## Let's code! 🚀
+
+Made with smiles by **Brayan Farias**. Connect with me on [Linkedin!](https://www.linkedin.com/in/npm-start-brayan-farias/)
 
 
 
