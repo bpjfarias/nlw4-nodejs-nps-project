@@ -29,7 +29,9 @@ It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - 
 
 <details><summary><b>Third class</b></summary>
 
-TBD
+- Repository concept and how to use it to separate the layers
+- Understading types of tests and how it can help
+- Creating automated tests
 
 </details>
 
@@ -52,6 +54,8 @@ TBD
 - Typescript
 - Express
 - Typeorm
+- Jest
+- Supertest
 - Sqlite
 - Insomnia API client
 
