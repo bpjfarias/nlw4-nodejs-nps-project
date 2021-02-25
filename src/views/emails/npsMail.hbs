@@ -1,0 +1,60 @@
+<style>
+    .container {
+        width: 800px;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .value {
+        padding: 10px;
+        background: #8257e6;
+        color: #fff;
+        border-radius: 6px;
+        width: 15px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .level {
+        display: flex;
+        margin: 10px;
+        justify-content: space-between;
+        width: 350px;
+    }
+
+    .answers {
+        display: flex;
+        justify-content: space-between;
+    }
+</style>
+
+<div class="container">
+    <label>Olá <strong>{{name}}</strong>! Tudo bem?</label>
+
+    <h3>{{title}} </h3>
+
+    <br />
+
+    <strong> {{description}} </strong>
+
+    <div class="level">
+        <span>Pouco provavel</span>
+        <span>Muito provavel</span>
+    </div>
+
+    <div class="answers">
+        <a class="value" href="{{link}}/1?id={{user_id}}" target="_blank">1</a>
+        <a class="value" href="{{link}}/2?id={{user_id}}" target="_blank">2</a>
+        <a class="value" href="{{link}}/3?id={{user_id}}" target="_blank">3</a>
+        <a class="value" href="{{link}}/4?id={{user_id}}" target="_blank">4</a>
+        <a class="value" href="{{link}}/5?id={{user_id}}" target="_blank">5</a>
+        <a class="value" href="{{link}}/6?id={{user_id}}" target="_blank">6</a>
+        <a class="value" href="{{link}}/7?id={{user_id}}" target="_blank">7</a>
+        <a class="value" href="{{link}}/8?id={{user_id}}" target="_blank">8</a>
+        <a class="value" href="{{link}}/9?id={{user_id}}" target="_blank">9</a>
+        <a class="value" href="{{link}}/10?id={{user_id}}" target="_blank">10</a>
+    </div>
+</div>

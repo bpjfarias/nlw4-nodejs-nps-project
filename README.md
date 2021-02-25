@@ -8,7 +8,7 @@ The NLW is an on-line event with a lot of coding, challenges, networking and onl
 
 It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - manager. It's provide some interfaces (APIs) to register users and surveys about the company, sends an e-mail to the user requesting a vote and allow to vote in NPS.
 
-<details><summary><b>First Class</b></summary>
+<details><summary><b>First class</b></summary>
 
 - Basics concepts about what is an API
 - Understanding what is Nodejs, where is it been used, for what problems was created
@@ -37,7 +37,10 @@ It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - 
 
 <details><summary><b>Fourth class</b></summary>
 
-TBD
+- Sending email using Nodemailer
+- Requesting data from database using Typeorm
+- Customizing e-mail templates with that data using Handlebarjs
+- Handling enviroment variables
 
 </details>
 
@@ -54,6 +57,8 @@ TBD
 - Typescript
 - Express
 - Typeorm
+- Handlebars
+- Nodemailer
 - Jest
 - Supertest
 - Sqlite
