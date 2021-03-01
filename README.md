@@ -6,7 +6,7 @@ The NLW is an on-line event with a lot of coding, challenges, networking and onl
 
 ## About my project
 
-It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - manager. It's provide some interfaces (APIs) to register users and surveys about the company, sends an e-mail to the user requesting a vote and allow to vote in NPS. It can request informations about a surveys and its calculation.
+It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - manager. It's provide some interfaces (APIs) to register users and surveys about the company, sends an e-mail to the user requesting a vote and allow to vote in NPS. It can request informations about surveys and its calculation.
 
 <details><summary><b>First class</b></summary>
 
