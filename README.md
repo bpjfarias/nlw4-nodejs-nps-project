@@ -22,7 +22,7 @@ It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - 
 - Starting a database configs
 - Creating first migration and model
 - Creating User table
-- Creating an User Controller and isolating that business role
+- Creating an User Controller and isolating its business role
 - Exposing an endpoint to create users
 
 </details>
