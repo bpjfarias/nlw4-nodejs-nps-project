@@ -1,4 +1,5 @@
 import request from 'supertest'
+import { getConnection } from 'typeorm'
 import { app } from '../app'
 import createConnection from '../database/index'
 
@@ -7,6 +8,12 @@ describe("Users", () => {
     beforeAll(async () => {
         const testConnection = await createConnection()
         await testConnection.runMigrations()        
+    })
+
+    afterAll(async () => {
+        const testConnection = getConnection()
+        await testConnection.dropDatabase()
+        await testConnection.close()
     })
 
     it('Should be able to create a new User', async () => {

@@ -46,7 +46,10 @@ It's a [NPS](https://en.wikipedia.org/wiki/Net_Promoter) - Net Promoter Score - 
 
 <details><summary><b>Fifth class</b></summary>
 
-TBD
+- Understanding about Custom Exceptions
+- Creating our custom exception 
+- Adding a middleware to handle custom exceptions on Expressjs
+- Validating our schemas using yup.js
 
 </details>
 
@@ -61,6 +64,7 @@ TBD
 - Nodemailer
 - Jest
 - Supertest
+- Yup
 - Sqlite
 - Insomnia API client
 
